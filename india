@@ -1,0 +1,16 @@
+ <html>
+<head>
+<title>Lol i troll u</title>
+<script type="text/javascript">
+function troll() {
+alert('Lol i trolled u!');
+troll();
+}
+</script>
+</head>
+<body onLoad="troll()">
+<center>
+<img src="http://upload.wikimedia.org/wikipedia/en/7/78/Trollface.svg" />
+</center>
+</body>
+</html>
